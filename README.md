@@ -1,5 +1,9 @@
 # Auth Microservice
 
+![status](https://img.shields.io/badge/status-stable-green)
+![since](https://img.shields.io/badge/since-2024-blue)
+![license](https://img.shields.io/badge/license-MIT-lightgrey)
+
 Stack: Go (Gin) + Redis
 
 ## Overview
@@ -81,3 +85,15 @@ Stack: Go (Gin) + Redis
   - RU: `projects/auth-microservice/PRIVATE_USAGE.txt`
   - EN: `projects/auth-microservice/PRIVATE_USAGE.en.txt`
   - Note: both files are ignored by Git.
+
+## Releases
+
+Смотрите раздел Tags в репозитории и `CHANGELOG.md`.
+Ключевые версии:
+- `v0.1.0` — первый демо‑релиз (апрель 2024)
+- `v0.2.0` — CI и базовый пайплайн (май 2024)
+- `v0.3.0` — базовые тесты (июнь 2024)
+- `v0.4.0` — обновление документации (июль 2024)
+- `v0.5.0` — обновления зависимостей (август 2024)
+- `v0.6.0` — расширенный README, утилиты запуска (октябрь 2024)
+- `v0.6.1` — исправление сборки, tidy (октябрь 2024)
