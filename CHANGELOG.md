@@ -43,3 +43,4 @@
 - 2025-03-23: Update docs
 - 2025-03-26: Add tests
 - 2025-03-27: Setup CI
+- 2025-04-07: Add feature
