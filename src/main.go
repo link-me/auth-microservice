@@ -33,3 +33,4 @@ func main(){ fmt.Println("Demo start") }
 // Add tests
 // Update docs
 // Setup CI
+// Update dependencies
