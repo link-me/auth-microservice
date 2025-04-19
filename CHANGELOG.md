@@ -45,3 +45,4 @@
 - 2025-03-27: Setup CI
 - 2025-04-07: Add feature
 - 2025-04-16: Update dependencies
+- 2025-04-19: Refactor module

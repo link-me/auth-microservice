@@ -34,3 +34,4 @@ func main(){ fmt.Println("Demo start") }
 // Update docs
 // Setup CI
 // Update dependencies
+// Refactor module
