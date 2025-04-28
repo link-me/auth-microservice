@@ -51,3 +51,4 @@
 - 2025-04-23: Add feature
 - 2025-04-23: Enhance logging
 - 2025-04-24: Setup CI
+- 2025-04-28: Setup CI
