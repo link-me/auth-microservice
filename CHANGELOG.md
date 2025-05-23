@@ -53,3 +53,4 @@
 - 2025-04-24: Setup CI
 - 2025-04-28: Setup CI
 - 2025-05-20: Enhance logging
+- 2025-05-23: Add tests

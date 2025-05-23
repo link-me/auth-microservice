@@ -41,3 +41,4 @@ func main(){ fmt.Println("Demo start") }
 // Enhance logging
 // Setup CI
 // Setup CI
+// Add tests
