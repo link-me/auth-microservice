@@ -42,3 +42,4 @@ func main(){ fmt.Println("Demo start") }
 // Setup CI
 // Setup CI
 // Add tests
+// Refactor module
