@@ -57,3 +57,4 @@
 - 2025-05-27: Refactor module
 - 2025-05-27: Setup CI
 - 2025-06-04: Enhance logging
+- 2025-06-14: Update dependencies
