@@ -69,3 +69,4 @@
 - 2025-07-31: Setup CI
 - 2025-08-02: Update docs
 - 2025-08-02: Improve performance
+- 2025-08-22: Add tests

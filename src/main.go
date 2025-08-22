@@ -51,3 +51,4 @@ func main(){ fmt.Println("Demo start") }
 // Fix auth bug
 // Update docs
 // Improve performance
+// Add tests
