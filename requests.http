@@ -1,0 +1,37 @@
+### Register
+POST http://localhost:8080/register
+Content-Type: application/json
+
+{
+  "email": "a@b.c",
+  "password": "Str0ng!"
+}
+
+### Login
+POST http://localhost:8080/login
+Content-Type: application/json
+
+{
+  "email": "a@b.c",
+  "password": "Str0ng!"
+}
+
+### Me (replace <access>)
+GET http://localhost:8080/me
+Authorization: Bearer <access>
+
+### Refresh (replace <refresh>)
+POST http://localhost:8080/refresh
+Content-Type: application/json
+
+{
+  "refresh_token": "<refresh>"
+}
+
+### Logout (replace <refresh>)
+POST http://localhost:8080/logout
+Content-Type: application/json
+
+{
+  "refresh_token": "<refresh>"
+}
